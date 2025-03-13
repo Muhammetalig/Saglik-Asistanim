@@ -13,7 +13,7 @@ Generative Language API: Semptomlar için öneriler almak amacıyla Google'ın G
 Kurulum
 Proje Kopyalama: Bu projeyi yerel makinenize klonlayın.
 
-git clone https://github.com/Muhammedalig/saglik-asistani.git
+git clone https://github.com/Muhammetalig/saglik-asistani.git
 
 Gerekli Paketlerin Kurulumu:
 flutter pub get
