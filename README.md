@@ -1,3 +1,6 @@
+https://github.com/user-attachments/assets/43926441-cb95-4f56-9fdf-0d8d8ff54fb3
+
+
 Sağlık Asistanı Uygulaması
 Sağlık Asistanı, kullanıcıların semptomlarına göre evde uygulanabilecek sağlık çözümleri ve beslenme önerileri sunan bir Flutter uygulamasıdır. Kullanıcılar, semptomlarını girerek, kişisel sağlık ihtiyaçlarına uygun öneriler alabilir ve günlük beslenme alışkanlıklarını iyileştirebilir.
 
