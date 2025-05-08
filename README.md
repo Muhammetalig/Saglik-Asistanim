@@ -11,7 +11,7 @@ Beslenme Önerileri: Her çözümle birlikte, sağlıklı beslenme önerileri ve
 Günlük Alışkanlık İyileştirme: Kullanıcılar, beslenme düzenlerini iyileştirerek sağlıklarını destekleyebilir.
 Teknolojiler
 Flutter: Mobil uygulama geliştirme framework'ü.
-HTTP: REST API çağrıları için.
+HTTP REST API çağrıları için.
 Generative Language API: Semptomlar için öneriler almak amacıyla Google'ın Generative Language API kullanılmıştır.
 Kurulum
 Proje Kopyalama: Bu projeyi yerel makinenize klonlayın.
