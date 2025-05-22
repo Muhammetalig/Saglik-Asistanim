@@ -8,7 +8,7 @@ Sağlık Asistanı, kullanıcıların semptomlarına göre evde uygulanabilecek 
 Semptom Girişi: Kullanıcılar, yaşadıkları semptomları metin olarak girer.
 Ev Çözüm Önerileri: Girdiği semptomlar doğrultusunda en etkili ev çözümleri sunulur.
 Beslenme Önerileri: Her çözümle birlikte, sağlıklı beslenme önerileri ve önerilen gıdalar hakkında bilgi verilir.
-Günlük Alışkanlık İyileştirme: Kullanıcılar, beslenme düzenlerini iyileştirerek sağlıklarını destekleyebilir.
+Günlük Alışkanlık İyileştirme: Kullanıcılar, beslenme düzenlerini iyilestirerek sağlıklarını destekleyebilir.
 Teknolojiler
 Flutter: Mobil uygulama geliştirme framework'ü.
 HTTP REST API çağrıları için.
